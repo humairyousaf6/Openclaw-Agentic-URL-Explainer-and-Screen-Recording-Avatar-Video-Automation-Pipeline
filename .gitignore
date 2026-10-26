@@ -1,0 +1,21 @@
+# This public branch is a deliberately allow-listed portfolio snapshot.
+# The complete client implementation remains local and confidential.
+/*
+
+# Public documentation
+!/.gitignore
+!/README.md
+!/NOTICE.md
+!/docs/
+!/docs/**
+
+# Selected, non-sensitive code samples
+!/app/
+/app/**
+!/app/content_snippets.py
+!/app/narration_budget.py
+!/app/transcript_loader.py
+!/app/website_extract.py
+!/app/url_based_explainer_video/
+/app/url_based_explainer_video/**
+!/app/url_based_explainer_video/cli_output.py
